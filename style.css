@@ -1,0 +1,27 @@
+.fibonacci {
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    background-color: white;
+}
+#display {
+    width: 280px;
+    height: 100px;
+    border-style: solid;
+    margin: 7px;
+}
+#text_id {
+    width: 280px;
+    height: 50px;
+    background-color: white;
+    border-style: solid;
+    margin: 7px;
+}
+#b {
+    display: block;
+    width: 100px;
+    height: 50px;
+    margin: 7px;
+    background-color: gray;
+    font-size: large;
+}
